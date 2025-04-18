@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munah57" alt="munah57" /></a> </p>
 
-## - 🔭 I’m currently working on **restaurant management API**
+### - 🔭 I’m currently working on **restaurant management API**
 
-## - 🌱 I’m currently learning **C#**
+### - 🌱 I’m currently learning **C#**
 
-## - 👯 I’m looking to collaborate on **Microservices**
+### - 👯 I’m looking to collaborate on **Microservices**
 
-##- 🤝 I’m looking for help with **Blockchain API**
+### - 🤝 I’m looking for help with **Blockchain API**
 
-## - 💬 Ask me about **APIs, Python, Go, JavaScript, MongoDB, PostgreSQL**
+### - 💬 Ask me about **APIs, Python, Go, JavaScript, MongoDB, PostgreSQL**
 
-## - 📫 How to reach me **munah57@live.com**
+### - 📫 How to reach me **munah57@live.com**
 
-##- ⚡ Fun fact **I was a policy advisor for 5 years before transitioning into tech**
+### - ⚡ Fun fact **I was a policy advisor for 5 years before transitioning into tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
