@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on a restaurant management API 
+## 🌱 I’m currently learning 
 <!--
 **munah57/munah57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
