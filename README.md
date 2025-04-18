@@ -1,5 +1,4 @@
-<h1 align="center">![github-header-image](https://github.com/user-attachments/assets/4b04606a-91be-449e-abeb-842115588f31)</h1>
-
+![github-header-image](https://github.com/user-attachments/assets/4b04606a-91be-449e-abeb-842115588f31)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munah57&label=Profile%20views&color=0e75b6&style=flat" alt="munah57" /> </p>
 
