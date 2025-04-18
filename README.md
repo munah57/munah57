@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **munah57@live.com**
 
-- ⚡ Fun fact **I was a policy advisor for 5 years before transitioning to tech**
+- ⚡ Fun fact **I was a policy advisor for 5 years before transitioning into tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
