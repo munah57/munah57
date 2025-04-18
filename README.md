@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munah57" alt="munah57" /></a> </p>
 
-### - 🔭 I’m currently working on **restaurant management API**
+### - 🔭 I’m currently working on a **restaurant management API**
 
 ### - 🌱 I’m currently learning **C#**
 
-### - 👯 I’m looking to collaborate on **Microservices**
+### - 👯 I’m looking to collaborate on **microservices**
 
 ### - 🤝 I’m looking for help with **Blockchain API**
 
@@ -16,7 +16,7 @@
 
 ### - 📫 How to reach me **munah57@live.com**
 
-### - ⚡ Fun fact **I was a policy advisor for 5 years before transitioning into tech**
+### - ⚡ Fun fact **I was a Policy Advisor for 5 years before transitioning into tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
