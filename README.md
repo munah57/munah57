@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munah57" alt="munah57" /></a> </p>
 
-### - 🔭 I’m currently working on a **restaurant management API**
-
-### - 🌱 I’m currently learning **C#**
+### - 🔭 I’m currently working on a **restaurant, portion control API**
 
 ### - 👯 I’m looking to collaborate on **microservices**
 
