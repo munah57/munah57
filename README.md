@@ -8,8 +8,6 @@
 
 ### - 👯 I’m looking to collaborate on **microservices**
 
-### - 🤝 I’m looking for help with **Blockchain API**
-
 ### - 💬 Ask me about **APIs, Python, Go, JavaScript, MongoDB, PostgreSQL**
 
 ### - 📫 How to reach me **munah57@live.com**
